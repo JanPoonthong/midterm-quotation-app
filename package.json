@@ -1,7 +1,7 @@
 {
+  "homepage": "https://janpoonthong.github.io/midterm-quotation-app",
   "name": "midterm-quotation-app",
   "private": true,
-  "homepage": "https://janpoonthong.github.io/midterm-quotation-app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
